@@ -1,2 +1,7 @@
+
 Just some random text
 And some more randomness
+
+Some conflicting new random file
+
+(conflicts now resolved)
